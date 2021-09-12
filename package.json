@@ -22,7 +22,8 @@
   },
   "files": [
     "dist/",
-    "nuxt/"
+    "nuxt/",
+    "src/"
   ],
   "dependencies": {
     "libphonenumber-js": "^1.7.51",
