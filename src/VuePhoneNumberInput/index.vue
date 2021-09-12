@@ -62,7 +62,7 @@
 <script>
   import { countries, countriesIso } from './assets/js/phoneCodeCountries.js'
   import examples from 'libphonenumber-js/examples.mobile.json'
-  import { parsePhoneNumberFromString, AsYouType, getExampleNumber } from 'libphonenumber-js'
+  import { parsePhoneNumberFromString, AsYouType, getExampleNumber } from 'libphonenumber-js/mobile'
   import InputTel from './InputTel'
   import CountrySelector from './CountrySelector'
   import locales from './assets/locales'
