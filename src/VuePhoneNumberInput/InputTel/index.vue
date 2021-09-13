@@ -78,7 +78,7 @@
 </template>
 
 <script>
-  import StylesHandler from '@/VuePhoneNumberInput/mixins/StylesHandler'
+  import StylesHandler from '../mixins/StylesHandler'
 
   export default {
     name: 'InputTel',

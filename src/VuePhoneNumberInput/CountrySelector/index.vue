@@ -119,7 +119,7 @@
 
 <script>
   import { getCountryCallingCode } from 'libphonenumber-js'
-  import StylesHandler from '@/VuePhoneNumberInput/mixins/StylesHandler'
+  import StylesHandler from '../mixins/StylesHandler'
 
   import { RecycleScroller } from 'vue-virtual-scroller'
 
