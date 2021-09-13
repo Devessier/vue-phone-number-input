@@ -154,7 +154,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import '@/assets/scss/variables';
+  @import '../../assets/scss/variables.scss';
   @import 'style-helpers';
 
   .input-tel {
